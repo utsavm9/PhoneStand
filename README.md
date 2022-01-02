@@ -23,7 +23,6 @@ Files relevant in the final demo
 * `esp32/`
     * `BasicWebServer`: Sketch for ESP32 CAM to connect to my home WiFi and stream the camera input
 * `python/`
-    * `face-detection.ipynb`: Notebook to debug face detection pipeline
     * `process.py`: Takes input stream from my ESP32CAM URL, and outputs to my Serial whether to turn left or right for the phone stand
 
 
@@ -33,3 +32,5 @@ Other files:
     * `omnivision`: Print the raw input from the camera as hex for debugging
     * `originalMotor`: Sketch to turn the motor through a driver
     * `rawbytes`: Print raw bytes to my serial port for Processing to take and show the image.
+* `python/`:
+    * `face-detection.ipynb`: Notebook to debug face detection pipeline
