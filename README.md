@@ -1,7 +1,5 @@
 # PhoneStand
-Face-tracking Phone Stand using Arduino, ESP32 and cameras.
-
-We wanted to create a phone stand which rotates to keep the user’s face at the center of the screen.
+Face-tracking Phone Stand using Arduino, ESP32 and cameras. We wanted to create a phone stand which rotates to keep the user’s face at the center of the screen. Made along with [Sandor Felber](https://www.facebook.com/sandor.felber.5) and [Rohit Karmarkar](https://www.facebook.com/rsk5298).
 
 ![](https://raw.githubusercontent.com/utsavm9/PhoneStand/main/images/stand.png)
 ![](https://raw.githubusercontent.com/utsavm9/PhoneStand/main/images/group.jpg)
